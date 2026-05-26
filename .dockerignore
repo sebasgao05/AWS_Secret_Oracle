@@ -1,0 +1,12 @@
+.env
+.env.example
+__pycache__
+*.pyc
+.git
+.gitignore
+.venv
+venv
+docs/
+scripts/
+*.md
+!requirements.txt
